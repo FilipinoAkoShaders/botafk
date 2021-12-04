@@ -6,6 +6,14 @@
   "scripts": {
     "start": "node index.js"
   },
+{
+  "name": "jumper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jumper.js",
+  "scripts": {
+     "start": "node jumper.js"
+  },
   "author": "MannuG",
   "license": "ISC",
   "dependencies": {
